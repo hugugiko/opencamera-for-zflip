@@ -4,7 +4,7 @@
 
 对画面进行了部分调整，并对视频进行自动处理一确保画面没有被系统镜像影响。
 
-![1778991826546.jpg](https://free.picui.cn/free/2026/05/17/6a0942cd21a24.jpg)
+<p align="center"><img src="https://free.picui.cn/free/2026/05/17/6a0942cd21a24.jpg" alt="opencamera-for-zflip" width="300" /></p>
 
 ## 项目说明
 

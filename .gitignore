@@ -1,0 +1,40 @@
+# Build outputs
+.gradle/
+build/
+app/build/
+app/release/
+
+# IDE
+.idea/
+*.iml
+
+# Local config (contains SDK paths)
+local.properties
+
+# APK files
+*.apk
+*.ap_
+
+# Logs and databases
+*.log
+*.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Documentation assets
+_docs/*.jpg
+_docs/ads.txt
+_docs/app-ads.txt
+_docs/gplay.html
+
+# Dev archives
+_archive/
+_devdocs/
+_other/
+_saved/
+
+# Test data
+testdata/
+gfx/
